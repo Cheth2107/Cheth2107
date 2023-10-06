@@ -1,7 +1,5 @@
-                            				Hi 👋, I'm Chethan K
-
-                            
-								 3rd YEAR CS STUDENT
+Hi 👋, I'm Chethan K
+3rd YEAR CS STUDENT
 - 👀 I’m interested in Cyber Security and Ethical Hacking.
 - 🌱 I’m aspire of creating a secure world.
 - 📫 Feel free to reach me out at @chethank0307@gmail.com.
